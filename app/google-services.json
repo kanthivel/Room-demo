@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833524348435",
+    "firebase_url": "https://room-demo.firebaseio.com",
+    "project_id": "room-demo",
+    "storage_bucket": "room-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833524348435:android:3a981121f915a3c0",
+        "android_client_info": {
+          "package_name": "com.example.kanthivel.roomdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833524348435-iv6jeou8hr0l38k1pksmu16rffm4g93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVpCQQ77qtHO4bFTISiwe7aNgEHL4xVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

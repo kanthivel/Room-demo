@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room demo</string>
+    <string name="product_title">Product title</string>
+    <string name="product_category">Category</string>
+    <string name="product_ailse">Ailse</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_date">Date</string>
+</resources>
